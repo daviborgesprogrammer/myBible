@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/primary</color>
+    <color name="colorPrimaryDark">@color/primaryDark</color>
+    <color name="colorAccent">@color/secondaryLight</color>
+
+    <color name="primaryLight">#f05545</color>
+    <color name="primary">#b71c1c</color>
+    <color name="primaryDark">#7f0000</color>
+
+    <color name="secondaryLight">#9fffe0</color>
+    <color name="secondary">#69f0ae</color>
+    <color name="secondaryDark">#2bbd7e</color>
+
+    <color name="primaryText">#ffffff</color>
+    <color name="secondaryText">#000000</color>
+    <color name="primaryIcon">#FFFFFF</color>
+
+    <color name="backTabBar">#FFFFFF</color>
+    <color name="tabIndicator">#BDC3C7</color>
+    <color name="black">#000000</color>
+</resources>
