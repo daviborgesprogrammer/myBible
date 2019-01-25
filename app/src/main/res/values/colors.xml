@@ -14,9 +14,12 @@
 
     <color name="primaryText">#ffffff</color>
     <color name="secondaryText">#000000</color>
+    <color name="ternaryText">#BDBDBD</color>
     <color name="primaryIcon">#FFFFFF</color>
 
     <color name="backTabBar">#FFFFFF</color>
-    <color name="tabIndicator">#BDC3C7</color>
-    <color name="black">#000000</color>
+    <color name="tabIndicator">@color/primary</color>
+    <color name="tabSelectedTextColor">@color/secondaryText</color>
+    <color name="tabUnselectedTextColor">@color/ternaryText</color>
+    <!--#BDC3C7-->
 </resources>
